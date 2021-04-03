@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boivlad/fabric-student-record.git"
+    "url": "git+https://github.com/DianaShakhova/student-record.git"
   },
   "keywords": [
     "fabric"
   ],
-  "author": "Vladyslav Boichenko",
+  "author": "Diana Shakhova",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/boivlad/fabric-student-record/issues"
   },
-  "homepage": "https://github.com/boivlad/fabric-student-record#readme",
+  =
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
