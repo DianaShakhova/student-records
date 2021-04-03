@@ -10,3 +10,4 @@ class KeyValueStorage extends Contract {
 }
 
 module.exports = KeyValueStorage;
+
