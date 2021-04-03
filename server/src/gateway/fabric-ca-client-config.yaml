@@ -110,7 +110,7 @@ csr:
       O: Hyperledger
       OU: Fabric
   hosts:
-    - diana-5570
+    - vlad-Inspiron-5570
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server
